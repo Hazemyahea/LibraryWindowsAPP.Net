@@ -28,7 +28,7 @@ LibraryWindowsAPP.Net
 └── Database            # Tables & stored procedures
 
 ## 📸 Screenshots
-![Main Form](https://postimg.cc/jnzbmz1Y)
-![Main Form](https://postimg.cc/hf1n01x9)
-![Main Form](https://postimg.cc/BX0sDV8S)
+![Main Form](https://i.postimg.cc/8cYzF4Bc/1.png)
+![Main Form](https://i.postimg.cc/qM974mvZ/2.png)
+![Main Form](https://i.postimg.cc/qM974mvZ/2.png)
 
